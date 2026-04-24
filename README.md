@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Hi, I'm Abhishek. I'm a results-driven developer focused on building efficient, reliable backend systems and responsive platforms.🔭 Currently working as an Analyst at Amazon Development Centre in Bengaluru.💻 Previously built full-stack modules and RESTful APIs as a Software Engineer Intern at LTIMindtree.🛠️ Tech Stack: Java, Python, C#, SQL, Spring Boot, and JavaScript.🚀 Passionate about algorithmic problem-solving, having conquered over 500+ coding challenges across LeetCode, GeeksforGeeks, and HackerRank.
 
 
